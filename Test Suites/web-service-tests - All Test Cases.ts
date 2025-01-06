@@ -25,6 +25,7 @@
          </iterationEntity>
          <testDataId>Data Files/ListUser</testDataId>
       </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
@@ -61,6 +62,7 @@
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Find user by ID</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
@@ -91,5 +93,12 @@
          <value></value>
          <variableId>12db7b5a-6bfc-4927-83be-322afbf82b91</variableId>
       </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>dc7ec870-b392-4ccf-b819-08ce106c5901</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/user/validate user details</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
