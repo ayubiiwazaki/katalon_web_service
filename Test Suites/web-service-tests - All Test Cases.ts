@@ -95,7 +95,7 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>dc7ec870-b392-4ccf-b819-08ce106c5901</guid>
+      <guid>5ab137c1-0e6d-4283-95cd-86a3d5d023ff</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/user/validate user details</testCaseId>
